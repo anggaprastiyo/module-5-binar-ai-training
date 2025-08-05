@@ -4,6 +4,11 @@
 
 This project is a sample full-stack application built with Next.js (App Router). It includes a simple frontend with login and profile update forms, a mock backend with API routes, and a complete testing and CI/CD setup.
 
+## Status Badges
+
+[![Tests](https://github.com/your-username/update-profile/workflows/Test%20and%20Coverage/badge.svg)](https://github.com/your-username/update-profile/actions)
+[![codecov](https://codecov.io/gh/your-username/update-profile/branch/main/graph/badge.svg)](https://codecov.io/gh/your-username/update-profile)
+
 ## How to Run the Project
 
 1.  **Clone the repository:**
